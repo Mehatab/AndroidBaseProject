@@ -1,0 +1,1 @@
+E:\AndroidProjects\Starter\buildSrc\build\classes\kotlin\main\Config.class;E:\AndroidProjects\Starter\buildSrc\build\classes\kotlin\main\Deps.class;E:\AndroidProjects\Starter\buildSrc\build\classes\kotlin\main\Versions.class

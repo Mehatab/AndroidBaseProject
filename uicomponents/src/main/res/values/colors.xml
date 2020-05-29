@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorSecondary">#000000</color>
+    <color name="colorControlNormal">#2E2E2E</color>
+    <color name="colorError">#B00020</color>
+
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#535353</color>
+    <color name="textColorHint">#B8B6B6</color>
+
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="divider">#F1F1F1</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorStatusBar">@color/colorBackground</color>
+    <color name="bottomNavigationColor">@color/colorBackground</color>
+
+</resources>

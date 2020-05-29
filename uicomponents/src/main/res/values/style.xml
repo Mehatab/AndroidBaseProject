@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.TextAppearance.Base" parent="@style/TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Widget.Text.Headline6" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Widget.Text.Headline5" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="Widget.Text.Headline4" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Widget.Text.Headline3" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="Widget.Text.Headline2" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">45sp</item>
+    </style>
+
+    <style name="Widget.Text.Headline1" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">60sp</item>
+    </style>
+
+    <style name="Widget.Text.Subtitle1" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Widget.Text.Subtitle2" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="Widget.Text.Subtitle3" parent="Widget.TextAppearance.Base">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="ShapeAppearance.AppTheme.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <style name="ShapeAppearance.AppTheme.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ShapeAppearance.AppTheme.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+</resources>

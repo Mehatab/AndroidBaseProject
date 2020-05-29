@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="textAppearanceSubtitle3"/>
+    <attr format="dimension" name="defaultMargin"/>
+    <attr format="dimension" name="defaultMarginMax"/>
+    <attr format="dimension" name="defaultMarginMed"/>
+    <attr format="dimension" name="defaultMarginMin"/>
+</resources>

@@ -1,0 +1,5 @@
+rootProject.name='Starter'
+include ':app'
+include ':data'
+include ':uicomponents'
+include ':feature1'
